@@ -28,7 +28,7 @@
                     android:id="@+id/titulo"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5dp"
                     android:text="TextView"
                     android:textSize="12sp" />
             </RelativeLayout>
@@ -48,7 +48,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="12sp"
-                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
                 android:text="Metascore: " />
 
         </LinearLayout>
